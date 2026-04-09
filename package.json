@@ -1,0 +1,16 @@
+{
+  "name": "tech-info.com.br",
+  "version": "1.0.0",
+  "description": "Este repositório tem como intuição recriar o projeto do TabNews(https://www.tabnews.com.br/) de Filipe Deschamps por meio do curso curso.dev, mas por minhas mãos, ou melhor, com o meu código.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
